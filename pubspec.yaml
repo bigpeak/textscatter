@@ -1,0 +1,28 @@
+name: textscatter
+description: A versatile Flutter package that allows developers to create dynamic, scatter-like text effects in their applications. Perfect for adding a touch of creativity and individuality to your UI, TextScatter makes it easy to implement randomized text positioning and animation.
+version: 0.0.1
+#author: Bigpeak Chen
+homepage: https://qishu.city
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.example.text_scatter
+        pluginClass: TextScatterPlugin
+      ios:
+        pluginClass: TextScatterPlugin
