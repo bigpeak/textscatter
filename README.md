@@ -8,11 +8,12 @@ To use this package, add `text_scatter` as a [dependency in your pubspec.yaml fi
 
 ## Demo
 
-https://user-images.githubusercontent.com/32483302/261020519-bc3d9326-e2a2-4544-a0ca-e378ee2145fa.gif
+
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/32483302/261020519-bc3d9326-e2a2-4544-a0ca-e378ee2145fa.gif alt="WeChat Donation" width="600"/>
+<img src="https://user-images.githubusercontent.com/32483302/261020519-bc3d9326-e2a2-4544-a0ca-e378ee2145fa.gif" alt="WeChat Donation" width="600"/>
 </div>
+
 
 
 
