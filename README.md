@@ -40,7 +40,7 @@ Wenn Sie dieses Pub-Paket hilfreich oder inspirierend finden, wird Ihre Unterst√
 
 ## Visitor Count
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id.textscatter.bigpeak&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page_id_textscatter_bigpeak&left_color=green&right_color=red)
 
 ## Example
 
