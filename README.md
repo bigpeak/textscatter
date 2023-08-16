@@ -24,7 +24,9 @@ If you find this pub package helpful or inspiring, your support and encouragemen
 Deutsch:
 Wenn Sie dieses Pub-Paket hilfreich oder inspirierend finden, wird Ihre Unterstützung und Ermutigung geschätzt! Sie können mir über den folgenden Link ein Trinkgeld geben: . Ihre Großzügigkeit wird mich motivieren, dieses Projekt weiter zu verbessern und zu pflegen, und mehr zur Open-Source-Gemeinschaft beitragen.
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/32483302/261005499-ef5d02ee-a208-4b9e-a837-7e3ebe02181e.png" alt="WeChat Donation" width="200"/>
+</div>
 
 ## Example
 
