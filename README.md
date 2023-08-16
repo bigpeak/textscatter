@@ -40,7 +40,7 @@ Wenn Sie dieses Pub-Paket hilfreich oder inspirierend finden, wird Ihre Unterst√
 
 ## Visitor Count
 
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=github_textscatter_bigpeak)
+![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${textscatter_bigpeak})
 
 ## Example
 
