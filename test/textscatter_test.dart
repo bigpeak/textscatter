@@ -10,8 +10,8 @@ void main() {
     testWidgets('TextScatter basic test', (WidgetTester tester) async {
       // Create the widget
       await tester.pumpWidget(MaterialApp(
-        home: Scaffold(
-          body: TextScatter(text: 'Test'),
+        home: const  Scaffold(
+          body: const TextScatter(text: 'Test'),
         ),
       ));
 

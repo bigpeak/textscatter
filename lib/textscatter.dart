@@ -41,7 +41,7 @@ class _TextScatterState extends State<TextScatter> with TickerProviderStateMixin
   void initState() {
     super.initState();
 
-    Future.delayed(Duration(), () {
+    Future.delayed(const Duration(), () {
       String text = widget.text;
       if (text.length < 10) {
         text = text * (10 ~/ text.length);
@@ -56,7 +56,7 @@ class _TextScatterState extends State<TextScatter> with TickerProviderStateMixin
       setState(() {
         if (_confirmed) {
           _list.forEach((bean) {
-            bean.radius *= _dustAnimation.value;
+            bean.radius *=  _dustAnimation.value;
           });
         }
       });

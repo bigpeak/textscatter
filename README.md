@@ -42,6 +42,8 @@ Wenn Sie dieses Pub-Paket hilfreich oder inspirierend finden, wird Ihre Unterst√
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page_id_textscatter_bigpeak&left_color=green&right_color=red)
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-bigpeak)
+
 ## Example
 
 Here is a simple usage example:
