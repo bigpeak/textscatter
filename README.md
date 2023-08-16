@@ -38,6 +38,10 @@ Wenn Sie dieses Pub-Paket hilfreich oder inspirierend finden, wird Ihre Unterst√
 <img src="https://user-images.githubusercontent.com/32483302/261005499-ef5d02ee-a208-4b9e-a837-7e3ebe02181e.png" alt="WeChat Donation" width="200"/>
 </div>
 
+## Visitor Count
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=textscatter-bigpeak-888)
+
 ## Example
 
 Here is a simple usage example:
@@ -57,5 +61,9 @@ void main() {
     ),
   );
 }
+
+
+
+
 
 
